@@ -8,6 +8,7 @@ function App() {
                     <h3>GCEK</h3>
                     <h4>Roll No : 18143184</h4>
                     <h5>PIN Code : 415124</h5>
+                    <h6>City : Karad</h6>
                 </div>
             </header>
         </div>
